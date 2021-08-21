@@ -1,0 +1,10 @@
+num7 = int(input ("enter number 1"))
+num1 = input ("enter number 2\n")
+num2 = input ("enter number 3\n")
+num3 = input ("enter number 4\n")
+num4 = input ("enter number 5\n")
+num5 = input ("enter number 6\n")
+num6 = input ("enter number 7\n")
+num8 = input ("enter number 8\n")
+mydict = {num1,num2,num3,num4,num5,num6,num7,num8}
+print (mydict)
